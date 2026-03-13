@@ -10,7 +10,9 @@ This project demonstrates common data preparation techniques used by analysts be
 # Tools Used
 
 Microsoft SQL Server
+
 Microsoft SQL Server Management Studio
+
 Microsoft Excel
 
 # Dataset
